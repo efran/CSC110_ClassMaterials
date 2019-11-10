@@ -1,2 +1,2 @@
-# CSC110_Summer_2017
+# CSC110
 For materials pertaining to CSC 110
